@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background:#f3f6fb; margin:0; }
+.container { max-width: 860px; margin: 24px auto; padding: 0 12px; }
+.card { background:white; border-radius:10px; padding:16px; margin-bottom:12px; box-shadow:0 1px 4px rgba(0,0,0,.08); }
+button { padding:8px 12px; border:none; border-radius:6px; background:#1259c3; color:white; cursor:pointer; }
+input { padding:8px; min-width:220px; }
+.option { display:block; margin:8px 0; }
+.badge { display:inline-block; padding:4px 8px; border-radius:999px; background:#e5eefc; margin-right:8px; }
+.good { color: #1b7f3a; }
+.bad { color: #a12121; }
